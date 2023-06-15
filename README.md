@@ -32,7 +32,7 @@
     <a href="https://github.com/bharatrav/weather-app"><strong>Explore this project »</strong></a>
     <br />
     <br />&#10023;
-    <a href="http://weather-app.netlify.com/">View Demo</a>   &#10023;  
+    <a href="http://weather-app-bharat01.netlify.app">View Demo</a>   &#10023;  
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
     <a href="#Authors">Author</a> &#10023;
 
